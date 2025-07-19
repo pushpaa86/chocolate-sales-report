@@ -26,3 +26,6 @@ https://www.linkedin.com/in/pushpanjali-mamidakula-160083220/
 ##  Tools Used
 - Power BI Desktop
 - Microsoft Excel
+
+- ![Dashboard Preview](dashboard.png)
+
